@@ -1,1 +1,26 @@
-body {background-color: blue;}
+.whoiam {
+  background-color: #beebe9
+}
+
+.topbox {
+  width: 200px;
+  height: 200px;
+  background: blue;
+  border: solid 5px;
+}
+
+.midbox {
+  width: 200px;
+  height: 200px;
+  background: red;
+  border: solid 10px;
+  margin-left: 210px;
+}
+
+.bottombox {
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  border: solid 5px;
+  margin-left: 430px;
+}
